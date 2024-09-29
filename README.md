@@ -23,7 +23,7 @@ In order to run the website locally on your computer , follow the steps given be
 
 * The above command will install all the required packages and dependencies required for the project 
 
-* Rename .env.temp to .env
+* Rename .env.example to .env
 * Setup values for - MONGO_URL, JWT_SECRET, JWT_LIFETIME
 
 * The final step is to run the following command
